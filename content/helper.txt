@@ -1,0 +1,2 @@
+# helper to move all files up a level (after SCP)
+mv bar/{,.}* .

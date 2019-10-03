@@ -1,0 +1,9 @@
+# helper to move all files up a level (after SCP)
+mv startbootstrap-agency/* .
+
+
+# scp
+scp index.html katedgrossman_speech-accentuated@ssh.phx.nearlyfreespeech.net:
+
+# ssh
+ssh katedgrossman_speech-accentuated@ssh.phx.nearlyfreespeech.net
